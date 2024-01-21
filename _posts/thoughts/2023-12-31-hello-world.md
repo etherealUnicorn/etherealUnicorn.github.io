@@ -1,5 +1,5 @@
 ---
-title: Hello world
+title: Hello, world!
 date: 2023-12-31 +0800
 categories: [Thoughts]
 tags: [thoughts, hello world]     # TAG names should always be lowercase
